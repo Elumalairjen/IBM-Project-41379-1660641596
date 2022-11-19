@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Elumalairjen/IBM-Project-41379-1660641596">
- <img src="https://postimg.cc/gallery/08xSMhj">
+ <img src="[https://postimg.cc/gallery/08xSMhj](https://github.com/Elumalairjen/CS8581/blob/d42a05dee2065a19a909545662af7db8e290a54a/Modern%20Minimal%20Gradient%20Background%20Technology%20Youtube%20Thumbnail.png)">
 </a>
 
 <h2 align="center">Global Sales Data Analytics <a href="https://github.com/Elumalairjen/IBM-Project-41379-1660641596" target="_blank"><picture>
