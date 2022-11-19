@@ -111,9 +111,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.webp" type="image/webp">
   
 </picture></h2></div>
-<ul>
-</ul><br></div><br>
-
+</div>
  <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
