@@ -18,19 +18,15 @@
 <a href="https://www.ibm.com/in-en">
 <img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
 </a>
-   <a href="https://www.python.org/g">
-    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
-  </a>
+  =
 
   <a href="https://www.ibm.com/cloud">
       <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
   </a>
-  <a href="https://opencv.org/">
-    <img src="https://us3.ca.analytics.ibm.com/bi/images/ca-content/welcome_banner.svg">
-   </a>
+ 
  
  <a href="https://us3.ca.analytics.ibm.com/">
-    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    <img src="https://us3.ca.analytics.ibm.com/bi/images/ca-content/welcome_banner.svg">
     </a>
 </p>
 
