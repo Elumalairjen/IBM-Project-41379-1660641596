@@ -62,22 +62,22 @@
 
 
 </picture> Completed Tasks : </h2>
-  
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
+  Assignments
 - [x] Assignment - 1 <br>
 - [x] Assignment - 2  <br>
 - [x] Assignment - 3  <br>
 - [x] Assignment - 4 <br>
 
-- [x] Proposed Solution <br>
-- [x] Proposed Solution fit <br>
-- [x] Solution Architecture <br>
-- [x] Data Flow Diagram <br>
-- [x] Solution Requirements <br>
-- [x] Technology Stack <br>
-- [x] Customer Journey Map <br>
+
+- [x] Project Design and Planning <br>
+- [x] Project Development Phase <br>
+- [x] Final Deliverables <br>
+
+Assigned Tasks
+- [x] Data Visualization Charts <br>
+- [x] IBM Cloud Account <br>
+- [x] IBM Cognos Analytics <br>
+- [x] Working With The Dataset<br>
 
 
 <br>
