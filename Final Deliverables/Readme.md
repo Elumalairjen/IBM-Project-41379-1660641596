@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Elumalairjen/IBM-Project-41379-1660641596">
- <img src="https://drive.google.com/file/d/1KtvC-3DCXE85lW6FLRwDq_GuO0loYQrg/view?usp=sharing">
+ <img src="https://postimg.cc/gallery/08xSMhj">
 </a>
 
 <h2 align="center">Global Sales Data Analytics <a href="https://github.com/Elumalairjen/IBM-Project-41379-1660641596" target="_blank"><picture>
