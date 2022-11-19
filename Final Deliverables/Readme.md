@@ -7,5 +7,6 @@ Final Deliverables
   
 - [x] Dataset<br>
 - [x] Documentation<br>
+- [x] Output Screenshots <br>
 - [x] Demo Video Link <br>
 - [x] Webapp <br>
