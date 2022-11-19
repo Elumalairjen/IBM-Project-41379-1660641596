@@ -1,9 +1,9 @@
 
-<a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731">
+<a href="https://github.com/Elumalairjen/IBM-Project-41379-1660641596">
  <img src="https://i.postimg.cc/rmFvc6Yh/fin-ibm.png">
 </a>
 
-<h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
+<h2 align="center">Global Sales Data Analytics <a href="https://github.com/Elumalairjen/IBM-Project-41379-1660641596" target="_blank"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
 </picture></a></h2>
@@ -26,14 +26,10 @@
       <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
   </a>
   <a href="https://opencv.org/">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
+    <img src="https://us3.ca.analytics.ibm.com/bi/images/ca-content/welcome_banner.svg">
    </a>
  
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    </a>
- 
- <a href="https://keras.io/">
+ <a href="https://us3.ca.analytics.ibm.com/">
     <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
     </a>
 </p>
