@@ -98,7 +98,19 @@ Assigned Tasks
 - [x] IBM Cognos Analytics <br>
 - [x] Working With The Dataset<br>
 
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f979/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f979/512.gif" alt="🥹" width="32" height="32">
+</picture>	Team Members :</h2></div>
+<ul>
+<li>  	Elumalai </li>
+<li>  	Dinesh Kumar </li>
+<li>  	Lokesh </li>
+<li>  	Rohith </li>
+<li>  	Dinesh </li>
 
+  </ul>
 <br>
  <h2>
   <picture>
