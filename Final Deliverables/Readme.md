@@ -42,38 +42,6 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.webp" type="image/webp">
  
 </picture></h2></div>
-<div>
- <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fc/512.webp" type="image/webp">
-
-</picture> Domain :</h2></div>
-<div align="center">
- <img src="https://miro.medium.com/max/828/1*TPy4pf_P1QUNVZqzngjliA.gif" width="900" >
- </div>
-
-<br>
-
-
-<div>
- <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f979/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f979/512.gif" alt="🥹" width="32" height="32">
-</picture>	The Beneficial Users  :</h2></div>
-<ul>
-<li>  	Farmer </li>
-<li>  	Common People </li>
-<li>  	Seller </li>
-<li>  	Buyer </li>
-<li>  	Employees </li>
-<li>  	Industrial People </li>
-  </ul>
-<br>
-
-<div>
-
-
-<br>
-  
   
   <div>
  <h2><picture>
