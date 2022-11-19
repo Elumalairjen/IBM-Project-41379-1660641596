@@ -106,11 +106,10 @@
 <ul>
 </ul><br></div><br>
 
- <div>
- <h2><picture>
+ <div><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.webp" type="image/webp">
   
-</picture></h2></div>
+</picture></div>
 </div>
  <div>
  <h2><picture>
