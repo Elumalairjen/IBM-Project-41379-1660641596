@@ -15,13 +15,13 @@
 </picture> </h4>
  
 <p align="center">
-<a href="https://www.ibm.com/in-en">
-<img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
-</a>
-  =
-
-  <a href="https://www.ibm.com/cloud">
+ <a href="https://www.ibm.com/cloud">
       <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
+  </a>
+ 
+  
+  <a href="https://www.kaggle.com/">
+      <img src="https://img.shields.io/badge/Api-Kaggle-blue">
   </a>
  
  
